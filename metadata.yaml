@@ -1,5 +1,5 @@
 _repo: Maanantai-tarinoita-Valikoima_58258
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Kallio, O. A. (Oskar Albin)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '43228'
     url: http://www.gutenberg.org/2009/agents/43228
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58258#Maanantai-tarinoita-Valikoima
 gutenberg_issued: '2018-11-09'
 gutenberg_type: Text
 identifiers:
